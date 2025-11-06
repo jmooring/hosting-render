@@ -7,12 +7,12 @@ services:
     staticPublishPath: public
     envVars:
       - key: DART_SASS_VERSION
-        value: 1.91.0
+        value: 1.93.3
       - key: GO_VERSION
-        value: 1.25.0
+        value: 1.25.4
       - key: HUGO_VERSION
-        value: 0.149.0
+        value: 0.152.2
       - key: NODE_VERSION
-        value: 22.18.0
+        value: 24.11.0
       - key: TZ
         value: Europe/Oslo
